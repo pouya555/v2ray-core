@@ -114,7 +114,7 @@ message StrategyLeastLoadConfig {
   string observer_tag = 7;
 }
 
-enum DomainStrategy {
+enum DomainStrategy {https://i.h-t.co/w/connection-test/75786dc5-8c60-4862-af41-a9165ee7e330
   // Use domain as is.
   AsIs = 0;
 
